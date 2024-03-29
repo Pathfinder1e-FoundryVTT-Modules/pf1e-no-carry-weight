@@ -1,2 +1,6 @@
+## v1.0.1
+- Remove carry capacity tooltip
+- Disable carry bonus and multiplier being applied in all cases
+
 ## v1.0.0
 - Initial release
